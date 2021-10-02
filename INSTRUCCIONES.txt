@@ -1,0 +1,11 @@
+Instrucciones:
+
+- ¿Tiene API?
+
+- Crear un repositorio de trabajo en GitHub y trabajar de manera colaborativa con los integrantes de su grupo.
+
+- Descargar la información solicitada y estructurarla de acuerdo al formato en excel: "CHGenesOrdenadosConVecinos.xlsx".
+
+- Fecha de entrega: miércoles 29 de septiembre. En un arvhivo txt adjuntar la url del repositorio.
+
+-Descripción o instrucciones: https://lamolina.vicloud.online/recording/shareRecord?id=ce501993-3c16-4925-a636-0ef5115a9603.qkMBLoNkQhaO%2FUlhuh9q%2Bw%3D%3D
